@@ -3,3 +3,4 @@
 #Commit --amend --amend
 #GIt merge
 #コンフリクト
+#こっちもコンフリクト追記
